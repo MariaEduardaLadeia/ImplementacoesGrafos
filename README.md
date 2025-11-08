@@ -1,7 +1,7 @@
 # Trabalho de Grafos 
 
  Integrantes
-- Enzo Brumate (19899310
+- Enzo Brumate (1989931)
 - Maria Eduarda Ladeia (1997771
 
 ## Descrição
