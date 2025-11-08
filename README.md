@@ -2,7 +2,7 @@
 
  Integrantes
 - Enzo Brumate (1989931)
-- Maria Eduarda Ladeia (1997771
+- Maria Eduarda Ladeia (1997771)
 
 ## Descrição
 
